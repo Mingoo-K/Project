@@ -14,3 +14,5 @@
 # Project03
 1. Image Classification
 2. Object Detection
+   A. Object Detection-test
+   B. Pre-traied model 
